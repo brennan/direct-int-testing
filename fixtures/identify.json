@@ -1,0 +1,29 @@
+{
+  "anonymous_id": "415cd5a8-5be1-4eee-b6c5-e1a36fc11921",
+  "context": {
+    "ip": "12.139.173.251",
+    "library": {
+      "name": "analytics.js",
+      "version": "3.2.5"
+    },
+    "page": {
+      "path": "/",
+      "referrer": "",
+      "search": "",
+      "title": "Analytics.js Integration Tester",
+      "url": "http://segment-testing.bitballoon.com/"
+    },
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
+  },
+  "integrations": {},
+  "message_id": "ajs-c65ad5534992be9c234415c6f43d5c6a",
+  "original_timestamp": "2018-02-08T18:45:35.956Z",
+  "received_at": "2018-02-08T18:45:35.983Z",
+  "sent_at": "2018-02-08T18:45:35.957Z",
+  "timestamp": "2018-02-08T18:45:35.982Z",
+  "traits": {
+    "email": "brennan@segment.com"
+  },
+  "type": "identify",
+  "user_id": "1234"
+}

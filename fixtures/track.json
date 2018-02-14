@@ -1,0 +1,27 @@
+{
+  "anonymous_id": "415cd5a8-5be1-4eee-b6c5-e1a36fc11921",
+  "context": {
+    "ip": "12.139.173.251",
+    "library": {
+      "name": "analytics.js",
+      "version": "3.2.5"
+    },
+    "page": {
+      "path": "/",
+      "referrer": "",
+      "search": "",
+      "title": "Analytics.js Integration Tester",
+      "url": "http://segment-testing.bitballoon.com/"
+    },
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
+  },
+  "event": "Testing",
+  "integrations": {},
+  "message_id": "ajs-44e7c36f1a4fb23c64e1288cefc24028",
+  "original_timestamp": "2018-02-08T20:32:27.732Z",
+  "received_at": "2018-02-08T20:32:27.757Z",
+  "sent_at": "2018-02-08T20:32:27.734Z",
+  "timestamp": "2018-02-08T20:32:27.755Z",
+  "type": "track",
+  "user_id": "1234"
+}
